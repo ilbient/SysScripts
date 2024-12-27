@@ -1,5 +1,4 @@
 #Skript na odinstalaciu programov na systeme Linux Mint 22
-#Vytvoril Peter Dzurina
 #Zaciatok Prac : 27/12/2024
 #Main HW - ThinkPad X220
 
